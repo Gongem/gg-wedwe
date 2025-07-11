@@ -13,7 +13,7 @@ class ContactOut(ContactBase):
     class Config:
         orm_mode = True
 
-]
+
 
 from pydantic import BaseModel
 
